@@ -1,0 +1,12 @@
+{
+  "name": "spellingbee",
+  "version": "1.0.0",
+  "description": "NYT Spelling Bee cheat",
+  "main": "index.js",
+  "scripts": {
+    "cheat": "node index.js",
+    "install": "bash scripts/install.sh"
+  },
+  "author": "greggzigler",
+  "license": "MIT"
+}
